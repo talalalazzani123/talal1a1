@@ -1,0 +1,11 @@
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الحاديه عشر\المحاضرة الحاديه عشر\bin\Debug\المحاضرة الحاديه عشر.exe.config
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الحاديه عشر\المحاضرة الحاديه عشر\bin\Debug\المحاضرة الحاديه عشر.exe
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الحاديه عشر\المحاضرة الحاديه عشر\bin\Debug\المحاضرة الحاديه عشر.pdb
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الحاديه عشر\المحاضرة الحاديه عشر\obj\Debug\المحاضرة الحاديه عشر.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الحاديه عشر\المحاضرة الحاديه عشر\obj\Debug\المحاضرة الحاديه عشر.csproj.SuggestedBindingRedirects.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الحاديه عشر\المحاضرة الحاديه عشر\obj\Debug\المحاضرة_الحاديه_عشر.Form1.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الحاديه عشر\المحاضرة الحاديه عشر\obj\Debug\المحاضرة_الحاديه_عشر.Properties.Resources.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الحاديه عشر\المحاضرة الحاديه عشر\obj\Debug\المحاضرة الحاديه عشر.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الحاديه عشر\المحاضرة الحاديه عشر\obj\Debug\المحاضرة الحاديه عشر.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الحاديه عشر\المحاضرة الحاديه عشر\obj\Debug\المحاضرة الحاديه عشر.exe
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة الحاديه عشر\المحاضرة الحاديه عشر\obj\Debug\المحاضرة الحاديه عشر.pdb
